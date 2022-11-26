@@ -1,7 +1,7 @@
 # pygame
 Witaj! 
 
-Polega ona na poruszaniu myszką, paletka będzie podążała za kursorem
+Gra polega na  poruszaniu myszką, paletka będzie podążała za kursorem
 Drugą paletką jest robot, zdobądź jak najwięcej punktów!!!
 
 Aby uruchomić grę:
