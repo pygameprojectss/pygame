@@ -1,5 +1,5 @@
 # pygame
-Witaj! Jest to gra PyGame stworzona przez Michała Rakowskiego
+Witaj! 
 
 Polega ona na poruszaniu myszką, paletka będzie podążała za kursorem
 Drugą paletką jest robot, zdobądź jak najwięcej punktów!!!
